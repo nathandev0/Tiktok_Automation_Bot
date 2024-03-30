@@ -2,7 +2,7 @@
 <img src="https://github.com/nathandev0/Tiktok_Automation_Bot/blob/94aee6f5529a2add1044206bfd6cd92670269aea/Demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ TikTok Automation Bot (iOS, Android) </h1>
-<p align="center"><strong>Appium</strong>-based automated <strong>TikTok account creation</strong>, <strong>account modification</strong> and <strong>video uploader on real devices.</strong>.</p>
+<p align="center"><strong>Appium</strong>-based automated <strong>TikTok account creation</strong>, <strong>account modification</strong> and <strong>video uploader on real devices</strong>.</p>
 <h2 id="contact"> 👀 Main functionality:</h2>
 
 - **1) Device & Automation management system**
