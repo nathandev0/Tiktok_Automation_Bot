@@ -20,5 +20,5 @@
 
 <h2 id="contact"> 💬 Contact</h2>
 - https://t.me/nathan_dev
-
+Guys my account got banned by the competitor, my new account is - https://t.me/nathan_dev0
 
