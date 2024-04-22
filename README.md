@@ -3,22 +3,27 @@
 </p>
 <h1 align="center"> ⬆️ TikTok Automation Bot (iOS, Android) </h1>
 <p align="center"><strong>Appium</strong>-based automated <strong>TikTok account creation</strong>, <strong>account modification</strong> and <strong>video uploader on real devices</strong>.</p>
-<h2 id="contact"> 👀 Main functionality:</h2>
+<h2 id="contact"> 👀 Functionality: </h2>
 
-- **1) Device & Automation management system**
-- **2) Account creation** (using email address or virtual phone number service API)
-- **3) Account modification** (name, username, bio, link and profile picture)
-- **4) Video uploader** (specific video from specific album, video text, song and description)
-- **5) IP rotation system** (API proxy rotation link, Airplane mode)
+- **1) Automated account creation**
+- **2) Automated video uploading**
+
+*and more...*
+
+<h2 id="contact"> 🔗 Integrations: </h2>
+
+- **1) Crane tweak integration** (new container for each account)
+- **2) SMSActivate service integration** (high qualty phone number for each account)
 
 <h2 id="contact"> 📝 Additional information: </h2>
 
-- **1) Anti-bot system** (human behavior modeling)
-- **2) No limit on devices / accounts** (depending on your pc / laptop hardware)
+- **1) Device & Automation management system**
+- **2) Anti-bot system** (human behavior modeling)
+- **3) IP rotation system** (different ip address for each container)
+
 - **3) No jailbreak (iOS) / No root (Android) required**
 - **4) Compatible with Windows and MAC OS**
 
 <h2 id="contact"> 💬 Contact</h2>
 
 - https://t.me/nathan_dev0 *(new account)*
-
