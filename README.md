@@ -14,12 +14,15 @@
 
 - **1) Crane tweak integration** (new container for each account)
 - **2) SMSActivate service integration** (high qualty phone number for each account)
+- **3) IPQualityScore service integration** (low fraud score ip address for each account)
+
 
 <h2 id="contact"> 📝 Additional information: </h2>
 
 - **1) Device & Automation management system**
 - **2) Anti-bot system** (human behavior modeling)
 - **3) IP rotation system** (different ip address for each container)
+
 
 <h2 id="contact"> 💬 Contact</h2>
 
