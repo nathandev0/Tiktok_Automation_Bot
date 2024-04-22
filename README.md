@@ -19,4 +19,6 @@
 - **4) Compatible with Windows and MAC OS**
 
 <h2 id="contact"> 💬 Contact</h2>
-- https://t.me/nathan_dev0 (new account)
+
+- https://t.me/nathan_dev0 *(new account)*
+
