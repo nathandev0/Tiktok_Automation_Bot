@@ -21,9 +21,6 @@
 - **2) Anti-bot system** (human behavior modeling)
 - **3) IP rotation system** (different ip address for each container)
 
-- **3) No jailbreak (iOS) / No root (Android) required**
-- **4) Compatible with Windows and MAC OS**
-
 <h2 id="contact"> 💬 Contact</h2>
 
 - https://t.me/nathan_dev0 *(new account)*
