@@ -8,7 +8,7 @@
 - **1) Device & Automation management system**
 - **2) Account creation** (using email address or virtual phone number service API)
 - **3) Account modification** (name, username, bio, link and profile picture)
-- **4) Video uploader** (particular video from partucular album; video text, song and description;)
+- **4) Video uploader** (specific video from specific album, video text, song and description)
 - **5) IP rotation system** (API proxy rotation link, Airplane mode)
 
 <h2 id="contact"> 📝 Additional information: </h2>
@@ -19,6 +19,4 @@
 - **4) Compatible with Windows and MAC OS**
 
 <h2 id="contact"> 💬 Contact</h2>
-- https://t.me/nathan_dev
-- Guys my account got banned by the competitor, my new account is - https://t.me/nathan_dev0
-
+- https://t.me/nathan_dev0 (new account)
