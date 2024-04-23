@@ -1,5 +1,5 @@
 TikTok Automation Bot (iOS, Android)
-Appium-based automated TikTok account creation, account modification and video uploader on real devices.
+Appium-based automated TikTok account creation and video posting on real devices.
 
 Contact:
 https://t.me/nathan_dev0
