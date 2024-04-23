@@ -26,4 +26,4 @@
 
 <h2 id="contact"> 💬 Contact</h2>
 
-- https://t.me/nathan_dev0 *(new account)*
+- https://t.me/nathandev0 *(my channel)*
