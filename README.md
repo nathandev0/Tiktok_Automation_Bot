@@ -23,6 +23,11 @@
 - **2) Anti-bot system** (human behavior modeling)
 - **3) IP rotation system** (different ip address for each container)
 
+<h2 id="contact"> ⚙️ Other automation bots: </h2>
+
+- **1) [Tinder Automation Bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
+- **2) [Bumble Automation Bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
+- **3) [Badoo Automation Bot](https://github.com/nathandev0/Badoo_Automation_Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
