@@ -1,0 +1,29 @@
+name: 'Main'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 13 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        
+      - name: Create date file
+        run: echo $(date) > src/date.txt
+      
+      - name: Commit date file
+        run: |
+          git config --global user.email "GitHub Actions"
+          git config --global user.name "actions@github.com"
+          git add src/date.txt .
+          git commit -m "Update date.txt"
+        
+      - name: Push commit
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
