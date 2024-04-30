@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/nathandev0/Tiktok_Automation_Bot/blob/94aee6f5529a2add1044206bfd6cd92670269aea/Demo.gif" alt="video working"/>
+<img src="https://github.com/nathandev0/Tiktok_Automation_Bot/blob/3d34a4a9da710ba1223b9dc2afa5483981642ec1/src/demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ TikTok Automation Bot (iOS, Android) </h1>
 <p align="center"><strong>Appium</strong>-based automated <strong>TikTok account creation</strong> and <strong>video posting on real devices</strong>.</p>
