@@ -25,9 +25,9 @@
 
 <h2 id="contact"> ⚙️ Other automation bots: </h2>
 
-- **1) [Tinder Automation Bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
-- **2) [Bumble Automation Bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
-- **3) [Badoo Automation Bot](https://github.com/nathandev0/Badoo_Automation_Bot)**
+- **1) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
+- **2) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
+- **3) [Badoo automation bot](https://github.com/nathandev0/Badoo_Automation_Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
